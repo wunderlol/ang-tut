@@ -1,0 +1,27 @@
+{
+  "name": "ang-tut",
+  "version": "1.0.0",
+  "description": "Tutorial on git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wunderlol/ang-tut.git"
+  },
+  "author": "wunder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wunderlol/ang-tut/issues"
+  },
+  "homepage": "https://github.com/wunderlol/ang-tut#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
